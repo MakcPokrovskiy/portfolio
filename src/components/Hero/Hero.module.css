@@ -88,7 +88,7 @@
 .botBlur {
     position: absolute;
     width: 70vw;
-    height: 50vw;
+    /*height: 50vw;*/
     min-width: 250px;
     top: 246px;
     right: -25vw;
