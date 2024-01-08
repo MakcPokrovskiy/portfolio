@@ -1,39 +1,37 @@
 [
   {
     "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/adminPanel.png",
+    "description": "Admin panel for react applications",
     "skills": [
       "React",
-      "Express",
-      "Node"
+      "Sass",
+      "TS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://admin-panel-zeta-liard.vercel.app/",
+    "source": "https://github.com/MakcPokrovskiy/admin-panel"
   },
   {
     "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/appGeneration.png",
+    "description": "App generating proverbs. Loads data from the API",
     "skills": [
-      "React",
-      "Express",
-      "Node",
-      "Sass"
+      "HTML",
+      "Sass",
+      "JS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://makcpokrovskiy.github.io/app-generation-js/app",
+    "source": "https://github.com/MakcPokrovskiy/app-generation-js"
   },
   {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/spaces.png",
+    "description": "Project about space, using react using SCSS",
     "skills": [
       "React",
-      "Express",
-      "Node"
+      "Sass"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://makcpokrovskiy.github.io/Spaces-app/",
+    "source": "https://github.com/MakcPokrovskiy/Spaces-app"
   }
 ]
