@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/adminPanel.png",
+    "description": "Admin panel for react applications",
+    "skills": [
+      "React",
+      "Sass",
+      "TS"
+    ],
+    "demo": "https://admin-panel-zeta-liard.vercel.app/",
+    "source": "https://github.com/MakcPokrovskiy/admin-panel"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/appGeneration.png",
+    "description": "App generating proverbs. Loads data from the API",
+    "skills": [
+      "HTML",
+      "Sass",
+      "JS"
+    ],
+    "demo": "https://makcpokrovskiy.github.io/app-generation-js/app",
+    "source": "https://github.com/MakcPokrovskiy/app-generation-js"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/spaces.png",
+    "description": "Project about space, using react using SCSS",
+    "skills": [
+      "React",
+      "Sass"
+    ],
+    "demo": "https://makcpokrovskiy.github.io/Spaces-app/",
+    "source": "https://github.com/MakcPokrovskiy/Spaces-app"
+  }
+]
